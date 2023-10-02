@@ -1,1 +1,2 @@
-# CptS101
+Jalen Feliciano
+jalen.feliciano@wsu.edu
